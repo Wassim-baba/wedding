@@ -48,6 +48,16 @@
     "photos/Wedding 17.jpg"
   ],
   "guests": {
+    "Wassim-Kahhale": {
+      "en": "Wassim Kahhale",
+      "members": [
+        "Wassim",
+        "Fadi",
+        "Mona",
+        "Karim",
+        "Nour"
+      ]
+    },
     "Odette-Sidawi": {
       "en": "Odette Sidawi",
       "members": []
