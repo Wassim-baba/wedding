@@ -48,6 +48,13 @@
     "photos/Wedding 17.jpg"
   ],
   "guests": {
+    "Wassim-Saadallah": {
+      "en": "Wassim Saadallah",
+      "members": [
+        "Wassim",
+        "Kareen"
+      ]
+    },
     "Wassim-Kahhale": {
       "en": "Wassim Kahhale",
       "members": []
