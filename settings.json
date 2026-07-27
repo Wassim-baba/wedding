@@ -48,6 +48,13 @@
     "photos/Wedding 17.jpg"
   ],
   "guests": {
+    "Odette-Sidawi-Family": {
+      "en": "Odette Sidawi Family",
+      "members": [
+        "Nabil",
+        "Odette"
+      ]
+    },
     "Zaher-Houneineh-Family": {
       "en": "Zaher Houneineh Family",
       "members": [
