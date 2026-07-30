@@ -48,6 +48,13 @@
     "photos/Wedding 17.jpg"
   ],
   "guests": {
+    "Wassim-Khoury": {
+      "en": "Wassim Khoury",
+      "members": [
+        "Wassim",
+        "Kareen"
+      ]
+    },
     "Wassim-Abboudy-Family": {
       "en": "Wassim Abboudy Family",
       "members": [
