@@ -48,6 +48,12 @@
     "photos/Wedding 17.jpg"
   ],
   "guests": {
+    "Wassim-Azzam": {
+      "en": "Wassim Azzam",
+      "members": [
+        "Wassim"
+      ]
+    },
     "Wassim-Khoury": {
       "en": "Wassim Khoury",
       "members": [
