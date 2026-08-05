@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Joseph-Ibrahim-Family": {
+      "en": "Joseph Ibrahim Family",
+      "members": [
+        "Joseph",
+        "Lamis",
+        "Yara",
+        "Majed"
+      ]
+    },
     "Salim-Sidawi-Family": {
       "en": "Salim Sidawi Family",
       "members": [
