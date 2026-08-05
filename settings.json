@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Elie-Saleh-Family": {
+      "en": "Elie Saleh Family",
+      "members": [
+        "Elie",
+        "Nancy"
+      ]
+    },
     "Maroun-Al-Achkar-Family": {
       "en": "Maroun Al Achkar Family",
       "members": [
