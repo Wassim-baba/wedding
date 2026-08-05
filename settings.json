@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Jony-Ghafary-Family": {
+      "en": "Jony Ghafary Family",
+      "members": [
+        "Jony",
+        "Claudine",
+        "Joyce",
+        "Joya"
+      ]
+    },
     "Joseph-Ghafary": {
       "en": "Joseph Ghafary",
       "members": [
