@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Bernadette-Hayek": {
+      "en": "Bernadette Hayek",
+      "members": [
+        "Bernadette"
+      ]
+    },
     "Walid-Saliba-Family": {
       "en": "Walid Saliba Family",
       "members": [
