@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Colette-Lampsos": {
+      "en": "Colette Lampsos",
+      "members": [
+        "Colette",
+        "Nicolas"
+      ]
+    },
     "Laurance-Sidawi": {
       "en": "Laurance Sidawi",
       "members": [
