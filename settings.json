@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Jad-Zougheib-Family": {
+      "en": "Jad Zougheib Family",
+      "members": [
+        "Jad",
+        "Samar"
+      ]
+    },
     "Jad-Bejjani-Family": {
       "en": "Jad Bejjani Family",
       "members": [
@@ -80,10 +87,6 @@
         "Joseph",
         "Hanadi"
       ]
-    },
-    "Jad-Zougheib-Family": {
-      "en": "Jad Zougheib Family",
-      "members": []
     },
     "Elie-Saleh-Family": {
       "en": "Elie Saleh Family",
