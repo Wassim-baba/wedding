@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "George-Abboudy-Family": {
+      "en": "George Abboudy Family",
+      "members": [
+        "George",
+        "Christina",
+        "Ashton"
+      ]
+    },
     "Elie-Abboudy-Family": {
       "en": "Elie Abboudy Family",
       "members": [
