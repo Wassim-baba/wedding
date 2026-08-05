@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Jad-Bejjani-Family": {
+      "en": "Jad Bejjani Family",
+      "members": [
+        "Jad",
+        "Sabine"
+      ]
+    },
     "Joseph-Abu-Janab": {
       "en": "Joseph Abu Janab",
       "members": [
