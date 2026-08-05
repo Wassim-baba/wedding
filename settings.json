@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Joseph-Karam-Family": {
+      "en": "Joseph Karam Family",
+      "members": [
+        "Joseph",
+        "Josiane",
+        "Salim",
+        "Mariebelle"
+      ]
+    },
     "Bassem-Haddad-Family": {
       "en": "Bassem Haddad Family",
       "members": [
