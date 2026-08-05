@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "George-Irani-Family": {
+      "en": "George Irani Family",
+      "members": [
+        "George",
+        "Micheline",
+        "Rafka"
+      ]
+    },
     "George-Zoghby": {
       "en": "George Zoghby",
       "members": [
