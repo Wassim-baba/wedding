@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Costas-Sabbagopoulos-Family": {
+      "en": "Costas Sabbagopoulos Family",
+      "members": [
+        "Costa",
+        "Michella-Joanna"
+      ]
+    },
     "Colette-Lampsos": {
       "en": "Colette Lampsos",
       "members": [
