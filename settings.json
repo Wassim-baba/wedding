@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Joseph-Zoghby": {
+      "en": "Joseph Zoghby",
+      "members": [
+        "Joseph",
+        "Bouchra"
+      ]
+    },
     "George-Zoghby": {
       "en": "George Zoghby",
       "members": [
