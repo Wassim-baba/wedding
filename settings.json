@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "George-Zoghby": {
+      "en": "George Zoghby",
+      "members": [
+        "George",
+        "Geonvieve",
+        "Elie"
+      ]
+    },
     "Jad-Zougheib-Family": {
       "en": "Jad Zougheib Family",
       "members": [
