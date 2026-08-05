@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Assaf-Huda": {
+      "en": "Assaf & Huda",
+      "members": [
+        "Assaf",
+        "Huda"
+      ]
+    },
     "Joseph-Karam-Family": {
       "en": "Joseph Karam Family",
       "members": [
