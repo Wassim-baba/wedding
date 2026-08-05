@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Maher-Maria": {
+      "en": "Maher & Maria",
+      "members": [
+        "Maher",
+        "Maria"
+      ]
+    },
     "Abboud-Bejjani-Family": {
       "en": "Abboud Bejjani Family",
       "members": [
