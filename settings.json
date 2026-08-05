@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Elias-Rita": {
+      "en": "Elias & Rita",
+      "members": [
+        "Elias",
+        "Rita"
+      ]
+    },
     "Samir-Bejjani-Family": {
       "en": "Samir Bejjani Family",
       "members": [
