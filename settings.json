@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Elie-Abboudy-Family": {
+      "en": "Elie Abboudy Family",
+      "members": [
+        "Elie",
+        "Tanya",
+        "Eva"
+      ]
+    },
     "Assaf-Huda": {
       "en": "Assaf & Huda",
       "members": [
