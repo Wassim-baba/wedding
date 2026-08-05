@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Walid-Saliba-Family": {
+      "en": "Walid Saliba Family",
+      "members": [
+        "Walid",
+        "Laudy"
+      ]
+    },
     "Jimmy-Bou-Khalil": {
       "en": "Jimmy Bou Khalil",
       "members": [
