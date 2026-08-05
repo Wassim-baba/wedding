@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Laurance-Sidawi": {
+      "en": "Laurance Sidawi",
+      "members": [
+        "Laurance"
+      ]
+    },
     "Joseph-Ibrahim-Family": {
       "en": "Joseph Ibrahim Family",
       "members": [
