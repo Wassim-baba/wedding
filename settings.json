@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Julien-Freiha-Family": {
+      "en": "Julien Freiha Family",
+      "members": [
+        "Julien",
+        "Jessica-lee",
+        "Chloelle",
+        "Yves"
+      ]
+    },
     "George-Sidawi-Family": {
       "en": "George Sidawi Family",
       "members": [
