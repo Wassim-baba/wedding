@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Maurice-Toubia-Family": {
+      "en": "Maurice Toubia Family",
+      "members": [
+        "Maurice",
+        "Berthe"
+      ]
+    },
     "Maya-Habka": {
       "en": "Maya Habka",
       "members": [
