@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Bechara-Khoury-Family": {
+      "en": "Bechara Khoury Family",
+      "members": [
+        "Bechara",
+        "Marie",
+        "Elie"
+      ]
+    },
     "Bchara-Khoury-Family": {
       "en": "Bchara Khoury Family",
       "members": [
