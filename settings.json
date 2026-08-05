@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Natalie-Abboudy": {
+      "en": "Natalie Abboudy",
+      "members": [
+        "Natalie"
+      ]
+    },
     "Zaher-Baroud-Family": {
       "en": "Zaher Baroud Family",
       "members": [
