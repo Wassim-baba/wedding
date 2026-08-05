@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Micheal-Sidawi": {
+      "en": "Micheal Sidawi",
+      "members": [
+        "Micheal",
+        "Christine",
+        "Jane-Emily",
+        "Kate-Anne"
+      ]
+    },
     "Natalie-Abboudy": {
       "en": "Natalie Abboudy",
       "members": [
