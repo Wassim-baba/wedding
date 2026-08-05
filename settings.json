@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "George-Sidawi-Family": {
+      "en": "George Sidawi Family",
+      "members": [
+        "George",
+        "Sonya",
+        "Randy-Joe",
+        "Jason-Bob"
+      ]
+    },
     "Micheal-Sidawi": {
       "en": "Micheal Sidawi",
       "members": [
