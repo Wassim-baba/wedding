@@ -46,15 +46,17 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Maya-Habka": {
+      "en": "Maya Habka",
+      "members": [
+        "Maya"
+      ]
+    },
     "Donia-Kayrouz": {
       "en": "Donia Kayrouz",
       "members": [
         "Donia"
       ]
-    },
-    "Maya-Habka": {
-      "en": "Maya Habka",
-      "members": []
     },
     "Ziad-Rahhal-Family": {
       "en": "Ziad Rahhal Family",
