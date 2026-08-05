@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Maurice-Bejjani": {
+      "en": "Maurice Bejjani",
+      "members": [
+        "Maurice",
+        "Therese"
+      ]
+    },
     "Joseph-Hindy-Family": {
       "en": "Joseph Hindy Family",
       "members": [
