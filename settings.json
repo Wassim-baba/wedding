@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "George-Anastazia": {
+      "en": "George & Anastazia",
+      "members": [
+        "George",
+        "Anastazia"
+      ]
+    },
     "Gharzouzi-Family": {
       "en": "Gharzouzi Family",
       "members": [
