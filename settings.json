@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Fadi-Al-Achkar-Family": {
+      "en": "Fadi Al Achkar Family",
+      "members": [
+        "Fadi",
+        "Jomana"
+      ]
+    },
     "Tony-Al-Achkar-Family": {
       "en": "Tony Al Achkar Family",
       "members": [
