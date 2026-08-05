@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Tarek-Bejjani-Family": {
+      "en": "Tarek Bejjani Family",
+      "members": [
+        "Tarek",
+        "Nour"
+      ]
+    },
     "Charbel-Khoury-Family": {
       "en": "Charbel Khoury Family",
       "members": [
