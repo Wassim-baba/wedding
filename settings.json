@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Abdo-Abi-Khalil-Family": {
+      "en": "Abdo Abi Khalil Family",
+      "members": [
+        "Abdo",
+        "Rana"
+      ]
+    },
     "Antoun-Al-Kik-Family": {
       "en": "Antoun Al Kik Family",
       "members": [
