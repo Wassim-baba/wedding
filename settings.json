@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Zaher-Baroud-Family": {
+      "en": "Zaher Baroud Family",
+      "members": [
+        "Zaher",
+        "Rania",
+        "Charbel"
+      ]
+    },
     "Pierre-Hajj-Family": {
       "en": "Pierre Hajj Family",
       "members": [
