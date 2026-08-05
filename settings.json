@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Abboud-Bejjani-Family": {
+      "en": "Abboud Bejjani Family",
+      "members": [
+        "Abboud",
+        "Mirna"
+      ]
+    },
     "Bernadette-Hayek": {
       "en": "Bernadette Hayek",
       "members": [
