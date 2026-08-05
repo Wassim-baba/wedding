@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Roy-Al-Achkar-Family": {
+      "en": "Roy Al Achkar Family",
+      "members": [
+        "Roy",
+        "Nancy"
+      ]
+    },
     "Tarek-Bejjani-Family": {
       "en": "Tarek Bejjani Family",
       "members": [
