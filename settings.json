@@ -46,6 +46,16 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Pierre-Hajj-Family": {
+      "en": "Pierre Hajj Family",
+      "members": [
+        "Pierre",
+        "Rola",
+        "Maria",
+        "Elissa",
+        "Georgio"
+      ]
+    },
     "George-Abboudy-Family": {
       "en": "George Abboudy Family",
       "members": [
