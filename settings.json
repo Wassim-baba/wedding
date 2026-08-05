@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Wassim-Al-Baba": {
+      "en": "Wassim Al Baba",
+      "members": [
+        "Wassim"
+      ]
+    },
     "Nadim-Wakim-Family": {
       "en": "Nadim Wakim Family",
       "members": [
