@@ -47,15 +47,7 @@
     "photos/Wedding 4.jpg",
     "photos/Wedding 17.jpg"
   ],
-  "guests": {
-    "Wassim-Khoury": {
-      "en": "Wassim Khoury",
-      "members": [
-        "Wassim",
-        "Kareen"
-      ]
-    }
-  },
+  "guests": {},
   "_baseUrl": "https://toufic-reine.github.io/wedding/",
   "_repo": "toufic-reine/wedding"
 }
