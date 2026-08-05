@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Bassem-Haddad-Family": {
+      "en": "Bassem Haddad Family",
+      "members": [
+        "Bassem",
+        "Nicole",
+        "Elias",
+        "Nour"
+      ]
+    },
     "Jony-Ghafary-Family": {
       "en": "Jony Ghafary Family",
       "members": [
