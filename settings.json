@@ -46,6 +46,17 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Samer-Bejjani-Family": {
+      "en": "Samer Bejjani Family",
+      "members": [
+        "Samer",
+        "Rania",
+        "Christa-Maria",
+        "Joya",
+        "Elya",
+        "Elie-Charbel"
+      ]
+    },
     "Elias-Rita": {
       "en": "Elias & Rita",
       "members": [
