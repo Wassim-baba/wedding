@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Hadi-Bejjani-Family": {
+      "en": "Hadi Bejjani Family",
+      "members": [
+        "Hadi",
+        "Andrea"
+      ]
+    },
     "Maurice-Bejjani": {
       "en": "Maurice Bejjani",
       "members": [
