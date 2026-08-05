@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Jimmy-Bou-Khalil": {
+      "en": "Jimmy Bou Khalil",
+      "members": [
+        "Jimmy"
+      ]
+    },
     "Jimmy-Khalil": {
       "en": "Jimmy Khalil",
       "members": [
