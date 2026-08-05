@@ -45,7 +45,39 @@
     "photos/Wedding 14.jpeg",
     "photos/Wedding 15.jpeg"
   ],
-  "guests": {},
+  "guests": {
+    "Samir-Bejjani-Family": {
+      "en": "Samir Bejjani Family",
+      "members": [
+        "Samir",
+        "Silvana"
+      ]
+    },
+    "Mansour-Saleh-Family": {
+      "en": "Mansour Saleh Family",
+      "members": [
+        "Mansour",
+        "Milda",
+        "Mia"
+      ]
+    },
+    "Peter-Kayrouz-Family": {
+      "en": "Peter Kayrouz Family",
+      "members": [
+        "Peter",
+        "Grace",
+        "Joud"
+      ]
+    },
+    "Toufic-Azar-Family": {
+      "en": "Toufic Azar Family",
+      "members": [
+        "Toufic",
+        "Aline",
+        "Ricky"
+      ]
+    }
+  },
   "_baseUrl": "https://toufic-reine.github.io/wedding/",
   "_repo": "toufic-reine/wedding"
 }
