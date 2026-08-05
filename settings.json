@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Antoun-Al-Kik-Family": {
+      "en": "Antoun Al Kik Family",
+      "members": [
+        "Antoun",
+        "Maya"
+      ]
+    },
     "George-Irani-Family": {
       "en": "George Irani Family",
       "members": [
