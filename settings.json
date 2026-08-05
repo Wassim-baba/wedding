@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Nadim-Wakim-Family": {
+      "en": "Nadim Wakim Family",
+      "members": [
+        "Nadim",
+        "Dayanne"
+      ]
+    },
     "Joseph-Zmeter-Family": {
       "en": "Joseph Zmeter Family",
       "members": [
