@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Rayan-Abboudy-Family": {
+      "en": "Rayan Abboudy Family",
+      "members": [
+        "Rayan",
+        "Wafaa",
+        "Heaven",
+        "Eden"
+      ]
+    },
     "Rony-Abboudy-Family": {
       "en": "Rony Abboudy Family",
       "members": [
