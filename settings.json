@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Ralph-Diane": {
+      "en": "Ralph & Diane",
+      "members": [
+        "Ralph",
+        "Diane"
+      ]
+    },
     "Cynthia-Challita": {
       "en": "Cynthia Challita",
       "members": [
