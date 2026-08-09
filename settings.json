@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Nadine-Aouta": {
+      "en": "Nadine Aouta",
+      "members": [
+        "Nadine"
+      ]
+    },
     "Ralph-Diane": {
       "en": "Ralph & Diane",
       "members": [
