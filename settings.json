@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Caren-Azzi": {
+      "en": "Caren Azzi",
+      "members": [
+        "Caren"
+      ]
+    },
     "Christina-Abi-Hachem": {
       "en": "Christina Abi Hachem",
       "members": [
