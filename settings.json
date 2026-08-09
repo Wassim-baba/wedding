@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Christina-Abi-Hachem": {
+      "en": "Christina Abi Hachem",
+      "members": [
+        "Christina"
+      ]
+    },
     "Elie-Rola": {
       "en": "Elie & Rola",
       "members": [
