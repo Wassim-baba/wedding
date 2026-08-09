@@ -46,6 +46,14 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Joe-Bou-Mikhael-Family": {
+      "en": "Joe Bou Mikhael Family",
+      "members": [
+        "Joe",
+        "Shireen",
+        "Joey"
+      ]
+    },
     "Noah-Pia": {
       "en": "Noah & Pia",
       "members": [
