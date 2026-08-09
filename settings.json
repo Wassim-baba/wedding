@@ -46,6 +46,13 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Elie-Rola": {
+      "en": "Elie & Rola",
+      "members": [
+        "Elie",
+        "Rola"
+      ]
+    },
     "Karen-Azzi": {
       "en": "Karen Azzi",
       "members": [
