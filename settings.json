@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Mohammad-Hadla": {
+      "en": "Mohammad Hadla",
+      "members": [
+        "Mohammad"
+      ]
+    },
     "Nadine-Aouta": {
       "en": "Nadine Aouta",
       "members": [
