@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Karen-Azzi": {
+      "en": "Karen Azzi",
+      "members": [
+        "Karen"
+      ]
+    },
     "Mohammad-Hadla": {
       "en": "Mohammad Hadla",
       "members": [
