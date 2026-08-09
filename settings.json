@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Elie-Khalil": {
+      "en": "Elie Khalil",
+      "members": [
+        "Elie"
+      ]
+    },
     "Elias-Yara": {
       "en": "Elias & Yara",
       "members": [
