@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Cynthia-Challita": {
+      "en": "Cynthia Challita",
+      "members": [
+        "Cynthia"
+      ]
+    },
     "Elie-Khalil": {
       "en": "Elie Khalil",
       "members": [
