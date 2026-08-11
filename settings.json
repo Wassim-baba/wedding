@@ -46,6 +46,15 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Bernadette-Hayek": {
+      "en": "Bernadette Hayek",
+      "members": [
+        "Bernadette",
+        "Jenny",
+        "Cariene",
+        "Solen"
+      ]
+    },
     "Joe-Bou-Mikhael-Family": {
       "en": "Joe Bou Mikhael Family",
       "members": [
@@ -136,12 +145,6 @@
       "members": [
         "Abboud",
         "Mirna"
-      ]
-    },
-    "Bernadette-Hayek": {
-      "en": "Bernadette Hayek",
-      "members": [
-        "Bernadette"
       ]
     },
     "Walid-Saliba-Family": {
