@@ -46,6 +46,12 @@
     "photos/Wedding 15.jpeg"
   ],
   "guests": {
+    "Joey-Diab": {
+      "en": "Joey Diab",
+      "members": [
+        "Joey"
+      ]
+    },
     "Bernadette-Hayek": {
       "en": "Bernadette Hayek",
       "members": [
